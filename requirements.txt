@@ -1,0 +1,4 @@
+cryptography>=41.0.0
+numpy>=1.25.0
+matplotlib>=3.8.0
+oqs>=0.7.0   # python bindings for liboqs (install may require native liboqs)
